@@ -6,9 +6,10 @@
 - Rust 
 
 ## Installation And Use
-> git clone  https://github.com/sh4dxwm0n4rch/multithreaded-tcp-server <br>
-> run cargo run -- server in one terminal <br>
-> run cargo run -- client in another terminal <br> 
+> git clone  https://github.com/sh4dxwm0n4rch/multithreaded-tcp-server
+> run cargo run -- server in one terminal
+> run cargo run -- client in  another terminal
+ 
 
 ## Compatibility
 - windows
