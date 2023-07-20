@@ -15,4 +15,13 @@
 - All unix system
 
 ## Screenshot
-
+<table>
+ <tr>
+  <th>
+   <img src="https://github.com/sh4dxwm0n4rch/multithreaded-tcp-server/blob/main/screenshot/screenshot1.JPG?raw=true">   
+  </th>
+  <th>
+   <img src="https://github.com/sh4dxwm0n4rch/multithreaded-tcp-server/blob/main/screenshot/screenshot2.JPG?raw=true">   
+  </th>
+ </tr>
+</table>
